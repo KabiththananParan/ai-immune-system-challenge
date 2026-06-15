@@ -1,2 +1,15 @@
-# ai-immune-system-challenge
-AI Safety NLP project for detecting harmful AI-agent conversations using machine learning and transformer models.
+# AI Immune System Challenge
+
+## Overview
+
+## Competition Goal
+
+## Dataset
+
+## Project Structure
+
+## Experiments
+
+## Results
+
+## Final Solution
